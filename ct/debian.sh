@@ -19,11 +19,11 @@ EOF
 header_info
 echo -e "Loading..."
 APP="Debian"
-var_disk="2"
+var_disk="6"
 var_cpu="1"
-var_ram="512"
+var_ram="1024"
 var_os="debian"
-var_version="12"
+var_version="11"
 variables
 color
 catch_errors
